@@ -1,4 +1,6 @@
 # Leaflet-Challenge
+## Finished Product and link
+[https://acboi0824.github.io/leaflet-challenge/](https://acboi0824.github.io/leaflet-challenge/)
 
 # Earthquake Data Web Visualization
 ## Background
