@@ -8,4 +8,4 @@ The US Geological Survey (USGS) is in charge of providing scientific data about 
 ## Step 1: Basic Visualization
 This map shows the earthquakes' magnitude and location over a single-layer map. The visualizations are generated using the Leaflet library for Javascript in the `static/js/logic.js` file and called into the DOM in the `index.html` file. This visualization is displayed over a single, plain layer using circles whose color and size vary according to the recorded earthquake's magnitude. In addition, this interactive map allows for the user to view additional details using the map's tooltips as shown in the figure below.
 
-![map](https://github.com/acboi0824/belly-button-challenge/blob/main/Images/table.PNG)
+![map](https://github.com/acboi0824/leaflet-challenge/blob/main/Images/basicMap.PNG)
